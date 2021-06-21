@@ -150,7 +150,7 @@ public class WebCrawler extends JFrame {
         threadsTextField.setName("ThreadsTextField");
         threadsTextField.setPreferredSize(new Dimension(width, height));
         threadsTextField.setVisible(true);
-        threadsTextField.setText("3");
+        threadsTextField.setText("4");
     }
 
     private void setDepthTextField(final int width, final int height) {
